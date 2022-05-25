@@ -1,0 +1,125 @@
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\EmployeesAndDepartmentsAPI.exe
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\EmployeesAndDepartmentsAPI.deps.json
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\EmployeesAndDepartmentsAPI.runtimeconfig.json
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\EmployeesAndDepartmentsAPI.runtimeconfig.dev.json
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\EmployeesAndDepartmentsAPI.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\ref\EmployeesAndDepartmentsAPI.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\EmployeesAndDepartmentsAPI.pdb
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.csproj.AssemblyReference.cache
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.AssemblyInfoInputs.cache
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.AssemblyInfo.cs
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.csproj.CoreCompileInputs.cache
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\staticwebassets\EmployeesAndDepartmentsAPI.StaticWebAssets.Manifest.cache
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\staticwebassets\EmployeesAndDepartmentsAPI.StaticWebAssets.xml
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\scopedcss\bundle\EmployeesAndDepartmentsAPI.styles.css
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.RazorTargetAssemblyInfo.cache
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.csproj.CopyComplete
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\ref\EmployeesAndDepartmentsAPI.dll
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.pdb
+C:\Users\medo1\Source\Repos\EmployeesAndDepartmentsAPI\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.genruntimeconfig.cache
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\appsettings.json
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\EmployeesAndDepartmentsAPI.exe
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\EmployeesAndDepartmentsAPI.deps.json
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\EmployeesAndDepartmentsAPI.runtimeconfig.json
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\EmployeesAndDepartmentsAPI.runtimeconfig.dev.json
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\EmployeesAndDepartmentsAPI.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\ref\EmployeesAndDepartmentsAPI.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\EmployeesAndDepartmentsAPI.pdb
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Humanizer.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.csproj.AssemblyReference.cache
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.AssemblyInfoInputs.cache
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.AssemblyInfo.cs
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.csproj.CoreCompileInputs.cache
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\staticwebassets\EmployeesAndDepartmentsAPI.StaticWebAssets.Manifest.cache
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\staticwebassets\EmployeesAndDepartmentsAPI.StaticWebAssets.xml
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\scopedcss\bundle\EmployeesAndDepartmentsAPI.styles.css
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.RazorTargetAssemblyInfo.cache
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.csproj.CopyComplete
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\ref\EmployeesAndDepartmentsAPI.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.pdb
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\obj\Debug\net5.0\EmployeesAndDepartmentsAPI.genruntimeconfig.cache
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\api .NET5\EmployeesAndDepartmentsAPI-main\EmployeesAndDepartmentsAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
